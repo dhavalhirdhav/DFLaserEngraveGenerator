@@ -6,19 +6,19 @@ Web based application for generating gcode to be used in 3D Printer for Laser En
    - [ ] Default Home
    - [ ] Print Bed Configuration
 2. [ ] Laser Profile
-	a. [ ] Laser Power
-	b. [ ] Laser Home Positioning [X, Y and Z]
+   - [ ] Laser Power
+   - [ ] Laser Home Positioning [X, Y and Z]
 3. [ ] Materials - by Laser Profile and Printer Profile
-	a. [ ] Material Type
-	b. [ ] Material Thickness
+   - [ ] Material Type
+   - [ ] Material Thickness
 4. Image to Laser
-	a. [ ] Upload and Preview of Image
-	b. [ ] Off Laser Power
-	c. [ ] On Laser Power
-	d. [ ] Travel Laser Power
-	e. [ ] Travel Move Speed
-	f. [ ] Engrave Move Speed
-	g. [ ] How many Pass?
+   - [ ] Upload and Preview of Image
+   - [ ] Off Laser Power
+   - [ ] On Laser Power
+   - [ ] Travel Laser Power
+   - [ ] Travel Move Speed
+   - [ ] Engrave Move Speed
+   - [ ] How many Pass?
 5. [ ] Generate GCode
 6. [ ] Preview GCode
 7. [ ] Download GCode
