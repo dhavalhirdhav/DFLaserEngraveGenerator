@@ -3,8 +3,8 @@ Web based application for generating gcode to be used in 3D Printer for Laser En
 
 ## Feature List:
 1. [ ] Printer Profile
-   a. [ ] Default Home
-   c. [ ] Print Bed Configuration
+   - [ ] Default Home
+   - [ ] Print Bed Configuration
 2. [ ] Laser Profile
 	a. [ ] Laser Power
 	b. [ ] Laser Home Positioning [X, Y and Z]
