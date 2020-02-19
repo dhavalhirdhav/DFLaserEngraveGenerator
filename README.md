@@ -1,7 +1,7 @@
 # DFLaserEngraveGenerator
 Web based application for generating gcode to be used in 3D Printer for Laser Engraving with support for multiple materials, presets, etc...
 
-## Feature List:
+### Feature List:
 1. [ ] Printer Profile
    - [ ] Default Home
    - [ ] Print Bed Configuration
